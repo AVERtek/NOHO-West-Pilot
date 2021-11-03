@@ -1,2 +1,1 @@
-# NOHO-West-Pilot
-NOHO pilot template
+# NOHO West
